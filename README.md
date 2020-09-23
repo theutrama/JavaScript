@@ -1,1 +1,1 @@
-# JavaScript
+# JavaScript - Blog with Node.js
